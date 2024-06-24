@@ -141,3 +141,10 @@ Examples of JSON
 package.json
 tsconfig.json
 Reference Twitter Post on JSON
+
+
+// common errors in typescript
+
+syntax error
+type error
+assigability error
